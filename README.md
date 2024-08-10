@@ -1,1 +1,1 @@
-BioinfoUI GitHub Exercise
+**BioinfoUI GitHub Exercise**
